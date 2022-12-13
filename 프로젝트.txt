@@ -1,0 +1,12 @@
+GUI, DB:csv, Using LOGIN
+
+DB : 1) User : admin, user -> 권한차이
+     2) Data : Table
+
+Tab => 1280 * 720
+
+유저페이지
+=> My Page / My Favorite List / Logout
+
+관리자페이지
+=> 곡추가/곡수정/곡삭제/회원관리
